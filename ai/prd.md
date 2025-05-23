@@ -20,6 +20,8 @@ Właściciel działki, aby sprawdzić kto stoi przy bramie, musi podejść do ok
 | FR-009 | Retencja miniatur i logów: automatyczne usuwanie danych starszych niż 10 dni; embeddingi i znane tablice trwałe. |
 | FR-010 | Zapewnienie metryk Prometheus (czas analizy, liczba detekcji, błędy I/O) dla monitoringu SLA. |
 | FR-011 | Ograniczenie rozmiaru bazy metadanych do 2 GB; powyżej limitu system blokuje dodawanie nowych miniatur. |
+| FR-012 | Przy uzyciu LLM via OpenRouter wykonanie agenta 'policy-agent', ktory zwroci liste zdarzen |
+| FR-013 | Przy uzyciu LLM via OpenRouter wykonanie agenta 'policy-agent', ktory edytuje config na podstawie komend inline |
 
 ## 4. Granice produktu
 * Obsługiwany format wejściowy: wyłącznie MP4 (brak strumieni RTSP/RTMP w MVP).

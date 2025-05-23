@@ -7,7 +7,8 @@ Backend - Python,PostgreSQL
 - backend na fastapi
 
 AI 
-Gotowe modele YOLOv8-face + EasyOCR-ANPR – pojedyncze pliki wag (5-15 MB) działające w czasie rzeczywistym na CPU; brak konieczności trenowania od zera.
+- Gotowe modele YOLOv8-face + EasyOCR-ANPR – pojedyncze pliki wag (5-15 MB) działające w czasie rzeczywistym na CPU; brak konieczności trenowania od zera.
+- OpenRouter do wykonywania tasków przez LLM w policy-agent z uzyciem Pydantic AI
 
 CICD/Hosting 
 Docker-Compose + GitHub Actions (CI: lint, pytest, build image), hosting na lokalnej maszynie
