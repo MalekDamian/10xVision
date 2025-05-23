@@ -1,0 +1,10 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# AI Rules for id-service
+
+[prd.md](mdc:prd.md)
+
+[tech-stack.md](mdc:ai/tech-stack.md)
